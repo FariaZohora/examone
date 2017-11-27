@@ -3,8 +3,6 @@
 	padding:0px;
 }
 body{
-	width:1770px;
-	height:1550px;
 	font-weight:600;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -64,7 +62,7 @@ header img{
 .banner {
 	background-image: url(../images/slider_background.png);
 	background-repeat: no-repeat;
-    background-size: cover;
+        background-size: cover;
 	height:650px;
 }
 .banner img{
